@@ -6,9 +6,9 @@
 
 **GPT Labs** is an **Windows 11** application that utilizes powerful content generative API from **OpenAI**. 
 
-With **GTP Labs**, you can easily generate text and images based on a variety of prompts, giving you unparalleled control over your creative output.
+With **gpt Labs**, you can easily generate text and images based on a variety of prompts, giving you unparalleled control over your creative output.
 
-App features the connection to GTP models from OpenAI, allowing you to:
+App features the connection to gpt models from OpenAI, allowing you to:
 
 - draft documents 
 - write code 
@@ -22,7 +22,7 @@ Plus, with Image Generation API (DALL·E 2), you can:
 - make edits to existing images
 - generate variations of those images
 
-Whether you're a creative professional or simply curious about the possibilities of AI, **GTP Labs** has something for everyone. App offers flexible and intuitive features, allowing you to combine text and images to create stunning presentations, marketing campaigns, educational content, writing assistants, and more.
+Whether you're a creative professional or simply curious about the possibilities of AI, **gpt Labs** has something for everyone. App offers flexible and intuitive features, allowing you to combine text and images to create stunning presentations, marketing campaigns, educational content, writing assistants, and more.
 
 So whether you're a seasoned developer or just getting started with AI-powered applications feel free to contribute. 
 
